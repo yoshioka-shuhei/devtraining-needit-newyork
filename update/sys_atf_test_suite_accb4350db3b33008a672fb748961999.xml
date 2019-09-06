@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>NeedItでのテスト必要な場合、フィールド日付ビジネスルールが3つのケースで機能することを確認します：過去の日付、今日、未来。</description>
+        <input_filter/>
+        <name>When needed Field NeedIt App</name>
+        <parent display_value="NeedIt App">9b2b4f10db3b33008a672fb74896191a</parent>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-06 10:12:08</sys_created_on>
+        <sys_id>accb4350db3b33008a672fb748961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>When needed Field NeedIt App</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_suite_accb4350db3b33008a672fb748961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-06 10:12:08</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>
